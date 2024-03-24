@@ -1,3 +1,10 @@
+"""
+
+    ჯერჯერობით არ ვიცი რატომ ამატებს requirements.txt ფაილში ყველა ფექიჯს,
+    მაგრამ ახლა ვცადე თვითონ ზოგიერთის, რომელიც ნაღდად არ ეხება პროეტს, წაშლა
+
+"""
+
 from pymongo import MongoClient
 from faker import Faker
 import json
