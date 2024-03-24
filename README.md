@@ -4,7 +4,7 @@
 
 # Features:
   This database manager had a basic functions, such as:
-  - Adding a new data (it will create a new database and tables automaticly since this one runs on pymongo)
+  - Adding a new data (it will create a new database and tables automaticly since this one runs with a pymongo)
   - Deleting the existing one
   - Searching for a particular data with a filter
   - Checking if database is empty
